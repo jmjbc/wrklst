@@ -1,0 +1,2 @@
+sencha architect version X.XXXX
+sencha touch version X.XX
